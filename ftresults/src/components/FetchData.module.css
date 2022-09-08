@@ -1,0 +1,20 @@
+.data{
+    font-family: sans-serif;
+    border: 1px solid lightblue;
+    color: white;
+    margin: 1% 0;
+    border-radius: 10px;
+    background-color: rgb(87, 120, 131);
+}
+
+.league{
+    display: flex;
+    justify-content: left;
+    font-size: large;
+    border-bottom: 1px solid lightblue;
+}
+
+.teams{
+    display: flex;
+    justify-content: left;
+}
